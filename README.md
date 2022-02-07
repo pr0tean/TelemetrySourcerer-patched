@@ -4,6 +4,9 @@
   <img src="https://www.publicdomainpictures.net/pictures/180000/nahled/wizard-with-wand.jpg" height="250" />
 </p>
 
+## pr0tean
+This contains a small patch to the driver callbacks query functions to allow kernel callbacks to function on Win10 21h1.
+
 ## Introduction
 
 Telemetry Sourcerer can enumerate and disable common sources of telemetry used by AV/EDR on Windows.
