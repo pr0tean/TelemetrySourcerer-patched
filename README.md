@@ -5,7 +5,7 @@
 </p>
 
 ## pr0tean
-This contains a small patch to the driver callbacks query functions to allow kernel callbacks to function on Win10 21h1.
+Original functionality is unchanged. This contains a small patch to the driver callbacks query functions to allow kernel callbacks to function on Win10 21h1.
 
 ## Introduction
 
